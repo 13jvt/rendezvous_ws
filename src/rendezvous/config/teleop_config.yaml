@@ -1,0 +1,7 @@
+# See http://wiki.ros.org/teleop_twist_joy for description of available parameters
+# See http://wiki.ros.org/joy?distro=melodic for mapping of index to buttons
+
+enable_button: 5
+enable_turbo_button: 4
+axis_linear: 1
+axis_angular: 2
